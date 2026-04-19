@@ -1,6 +1,8 @@
 # TopAnalytics DataHub Pilot Project
 
-Strategic pilot project by **TopAnalytics LLP, Kazakhstan**, focused on early-stage project intelligence, market positioning, industrial opportunity mapping, and cross-border coordination for infrastructure and industrial modernization initiatives.
+[View Pilot Project Overview (PDF)](./TopAnalytics_Pilot_Project_Overview.pdf)
+
+Strategic pilot initiative by **TopAnalytics LLP, Kazakhstan**, designed to support earlier project visibility, stronger market positioning, and more effective cross-border coordination for infrastructure and industrial modernization.
 
 ---
 
