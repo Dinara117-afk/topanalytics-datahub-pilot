@@ -166,3 +166,24 @@ The long-term vision of the pilot is to support earlier and smarter project entr
 Strategic analytics, project intelligence, and cross-border industrial coordination.
 
 Project lead: **Dinara Kanapievna**
+
+
+Dinara Ibrasheva <dinara@topanalytics.global>
+20:18 (0 минут назад)
+кому: мне
+
+## Project Status
+
+This pilot project is currently in the formation and structuring stage.
+
+It is not presented as a final product, completed platform, or ready-made implementation model.
+The project is being developed step by step as an evolving integration framework.
+
+The current purpose is to:
+- define the core structure;
+- identify relevant stakeholder groups;
+- test the integration logic;
+- clarify practical use cases;
+- and build the first version of a working coordination model.
+
+The framework may be updated, refined, expanded, or adjusted as discussions with partners, infrastructure stakeholders, technology providers, investors, and execution teams develop.
