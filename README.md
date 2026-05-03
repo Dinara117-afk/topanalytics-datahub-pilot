@@ -169,8 +169,7 @@ Project lead: **Dinara Kanapievna**
 
 
 Dinara Ibrasheva <dinara@topanalytics.global>
-20:18 (0 минут назад)
-кому: мне
+
 
 ## Project Status
 
